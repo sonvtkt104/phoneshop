@@ -1,7 +1,7 @@
 <?php
     $dbhost = 'localhost';  // or 127.0.0.1
     $dbuser = 'root';       // default XAMPP username
-    $dbpass = 'lsond2001';          // default XAMPP password is blank
+    $dbpass = '';          // default XAMPP password is blank
     $dbname = 'greenwichphoneshop';   // your local database name
 
     $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);

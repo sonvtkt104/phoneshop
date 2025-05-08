@@ -1,7 +1,7 @@
 <?php  
 	$dbhost="localhost";
 	$dbuser="root";
-	$dbpass="lsond2001";
+	$dbpass="";
 	$dbname="greenwichphoneshop";
 
 	$conn=mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
