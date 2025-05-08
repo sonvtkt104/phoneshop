@@ -13,6 +13,9 @@
 	font-weight:bold;
 	display:block;
 	float:left;}
+#prd-thumb img {
+	width: auto;
+}
 #prd-thumb, #prd-intro{
 	margin:15px 0;
 	}	

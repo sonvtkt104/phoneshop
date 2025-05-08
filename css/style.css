@@ -263,3 +263,7 @@ logo-icon{
 	position: absolute;
 	left: 520px;
 }
+.product-item img {
+	width: auto;
+	object-fit: contain;
+}

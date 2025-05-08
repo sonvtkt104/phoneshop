@@ -156,7 +156,6 @@
 
                     <p><b>Adrress:</b> University of Greenwich, Duong Dinh Nghe, Cau Giay, Ha Noi | <b>Hotline</b> 08 58
                         601 303</p>
-                    <p>Kydz &copy;</p>
                 </div>
             </div>
         </div>
